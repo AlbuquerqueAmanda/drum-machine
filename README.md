@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Drum Machine 🥁 `eng`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple drum machine project built using JavaScript to practice working with audio elements. This project was one of my early attempts in JavaScript to create buttons that produce different sounds and display the sound name upon button click.
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+The main goal of this project is to provide a user interface with multiple buttons, each producing a unique sound when clicked. Additionally, it displays the name of the sound associated with each button upon activation, aiding in audio recognition.
 
-### `npm start`
+## Technologies
+- JavaScript
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Roadmap 
+This project is an initial attempt and can be expanded in various ways in the future:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Implement volume controls for the sounds.
+- Add more sound options or the ability to upload custom sounds.
+- Enhance the user interface for better usability.
+- Incorporate rhythm patterns or loops for creative music composition.
 
-### `npm test`
+## How to Run the Project
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Start the application with `npm start`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contribution 📌
+Contributions are welcomed! Feel free to open issues or send pull requests for enhancements or bug fixes.
 
-### `npm run build`
+***
+***
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Drum Machine 🥁 `pt-br`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Um projeto simples de drum machine construído usando JavaScript para praticar o uso de elementos de áudio. Este projeto foi uma das minhas primeiras tentativas em JavaScript para criar botões que produzem diferentes sons e exibem o nome do som ao serem clicados.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Objetivo 
 
-### `npm run eject`
+O principal objetivo deste projeto é oferecer uma interface de usuário com vários botões, cada um produzindo um som único ao ser clicado. Além disso, exibe o nome do som associado a cada botão ao ser ativado, auxiliando no reconhecimento auditivo.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tecnologias 
+- JavaScript
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Roadmap 
+Este projeto é uma tentativa inicial e pode ser expandido de várias maneiras no futuro:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Implementar controles de volume para os sons.
+- Adicionar mais opções de sons ou a capacidade de carregar sons personalizados.
+- Aprimorar a interface do usuário para melhor usabilidade.
+- Incorporar padrões de ritmo ou loops para composição musical criativa.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Como executar o projeto 
+1. Clone este repositório.
+2. Instale as dependências usando `npm install`.
+3. Inicie o aplicativo com `npm start`.
 
-## Learn More
+## Contribuição 📌
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests para melhorias.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
